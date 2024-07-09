@@ -18,7 +18,7 @@ public class Main{
 
         // Arithematic operators --> + -  *  /  %
         int a;
-        int b,c;
+        int b;
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the values of a:");
         a = s.nextInt();
